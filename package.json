@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing on work",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stanisl4v/testingOnWork.git"
+  },
+  "keywords": [
+    "JP",
+    "Testing"
+  ],
+  "author": "Slavoljub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stanisl4v/testingOnWork/issues"
+  },
+  "homepage": "https://github.com/Stanisl4v/testingOnWork#readme",
+  "dependencies": {
+    "mocha": "^10.0.0",
+    "selenium-webdriver": "^4.1.2"
+  }
+}
